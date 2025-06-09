@@ -26,8 +26,8 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      value: 'linkedin.com/in/ch-pavan-325374254/',
-      href: 'https://www.linkedin.com/in/ch-pavan-325374254/',
+      value: 'linkedin.com/in/ch-pavan-70b47536a/',
+      href: 'https://www.linkedin.com/in/ch-pavan-70b47536a/',
       color: 'cyber-red'
     }
   ];
