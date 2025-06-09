@@ -12,7 +12,7 @@ const Header = () => {
     },
     {
       icon: Linkedin,
-      href: 'https://www.linkedin.com/in/ch-pavan-325374254/',
+      href: 'https://www.linkedin.com/in/ch-pavan-70b47536a/',
       label: 'LinkedIn'
     },
     {
