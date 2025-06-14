@@ -12,7 +12,7 @@ const Header = () => {
     },
     {
       icon: Linkedin,
-      href: 'https://www.linkedin.com/in/ch-pavan-70b47536a/',
+      href: 'https://www.linkedin.com/in/chandaluri-pavan-durga-s-325374254/',
       label: 'LinkedIn'
     },
     {
